@@ -1,0 +1,12 @@
+*{
+    font-family: vazir;
+}
+header{
+    height: 100px;
+}
+.icon-style{
+    color: #0d6efd;
+    background-color: #ebeafb;
+    padding: 15px;
+    border-radius: 15px;
+}
