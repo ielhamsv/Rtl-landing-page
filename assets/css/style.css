@@ -25,3 +25,10 @@ header{
     left: 0;
     min-height: 500px;
 }
+a{
+    text-decoration: none;
+}
+.underline{
+    border-bottom: 3px solid;
+    height: 35px;
+}
