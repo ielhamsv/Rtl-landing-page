@@ -14,3 +14,14 @@ header{
     background-color: #1b2a4e;
     color: white;
 }
+.carousel .carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    bottom: 0;
+    left: 0;
+    min-height: 500px;
+}
