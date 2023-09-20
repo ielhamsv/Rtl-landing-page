@@ -10,3 +10,7 @@ header{
     padding: 15px;
     border-radius: 15px;
 }
+.bg-card{
+    background-color: #1b2a4e;
+    color: white;
+}
